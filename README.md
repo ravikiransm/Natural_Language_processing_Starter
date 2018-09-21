@@ -2,4 +2,4 @@
 ## Pre-Processing techniques
 ## Tf-IDF example
 ## Text clasiification
-## Text summarization
+## Sentiment analysis
